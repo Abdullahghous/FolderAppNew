@@ -1,0 +1,17 @@
+export const imgOdds = [
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/1.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/3.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/5.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/7.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/9.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/11.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/13.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/15.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/17.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/19.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/21.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/23.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/25.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/27.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/29.jpg',
+]

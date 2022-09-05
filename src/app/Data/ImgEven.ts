@@ -1,0 +1,17 @@
+export const imgEven = [
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/2.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/4.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/6.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/8.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/10.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/12.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/14.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/16.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/18.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/20.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/22.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/24.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/26.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/28.jpg',
+    'https://static01.eu/1prospekte.de/images/uploads/folder/87858/30.jpg',
+]
